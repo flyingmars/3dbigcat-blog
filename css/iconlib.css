@@ -11,7 +11,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.nexmoe-widget-title,.mdui-list-item-content,.archive-list-link,.nexmoe-search,.mdui-ripple,h1,h2,h3,p,span,div {
+.nexmoe-widget-title,.mdui-list-item-content,.archive-list-link,.nexmoe-search,.mdui-ripple,h1,h2,h3,p,span,div,li {
   font-family: "nexmoefont" !important;
 }
 
